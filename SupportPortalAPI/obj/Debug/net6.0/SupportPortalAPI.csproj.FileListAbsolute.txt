@@ -1,0 +1,8 @@
+C:\Users\shivam kumar singh\CustomerSupportPortal\SupportPortalAPI\obj\Debug\net6.0\SupportPortalAPI.csproj.AssemblyReference.cache
+C:\Users\shivam kumar singh\CustomerSupportPortal\SupportPortalAPI\obj\Debug\net6.0\rpswa.dswa.cache.json
+C:\Users\shivam kumar singh\CustomerSupportPortal\SupportPortalAPI\obj\Debug\net6.0\SupportPortalAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shivam kumar singh\CustomerSupportPortal\SupportPortalAPI\obj\Debug\net6.0\SupportPortalAPI.AssemblyInfoInputs.cache
+C:\Users\shivam kumar singh\CustomerSupportPortal\SupportPortalAPI\obj\Debug\net6.0\SupportPortalAPI.AssemblyInfo.cs
+C:\Users\shivam kumar singh\CustomerSupportPortal\SupportPortalAPI\obj\Debug\net6.0\SupportPortalAPI.csproj.CoreCompileInputs.cache
+C:\Users\shivam kumar singh\CustomerSupportPortal\SupportPortalAPI\obj\Debug\net6.0\SupportPortalAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\shivam kumar singh\CustomerSupportPortal\SupportPortalAPI\obj\Debug\net6.0\SupportPortalAPI.MvcApplicationPartsAssemblyInfo.cache
